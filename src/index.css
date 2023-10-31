@@ -84,3 +84,7 @@ button:hover {
   color: red;
 
 }
+
+#alertMessage {
+  color: red;
+}
